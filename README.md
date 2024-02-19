@@ -1,10 +1,8 @@
-<h1>YouTube-Clobe</h1>
+<h1>YouTube-Clone</h1>
 
 
 
-<p>I would like to introduce you to my YouTube-Clone project that I created with React-Vite.
-It consists of 4 different interfaces: Home-Results-Detail-Undefined. I enabled you to navigate between these pages without interruption with react-router-dom.
-  The parameters in the sidebar section are active and you will be able to view the latest videos by sending an API request every time they are clicked./p>
+<p>I'm excited to share my YouTube-Clone project, which I developed using React-Vite. This project features four distinct interfaces: Home, Results, Detail, and Undefined, providing a comprehensive user experience. Navigation between these pages is seamless, thanks to the integration of react-router-dom. Additionally, the sidebar parameters are dynamic, allowing you to fetch the latest videos through API requests with each click. </p>
 
   <h2>Project Gif</h2>
 
